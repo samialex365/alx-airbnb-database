@@ -1,4 +1,5 @@
 -- database_index.sql
+-- Author: Samuel Alemayehu
 -- Description: Create indexes to improve query performance and measure with EXPLAIN ANALYZE
 
 
